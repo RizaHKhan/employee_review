@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "data": {
+        "token": "2|c6Loega2M2bqDf2JUclVayQmPk3HUSX0zawSDlBk",
+        "email": "khanriza@gmail.com",
+        "role": "admin"
+    },
+    "message": "Registration Successful"
+}
