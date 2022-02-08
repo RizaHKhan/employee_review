@@ -1,9 +1,1 @@
-{
-    "id": 1,
-    "name": "khanr",
-    "email": "khanriza@gmail.com",
-    "email_verified_at": null,
-    "created_at": "2022-02-07T18:09:10.000000Z",
-    "updated_at": "2022-02-07T18:09:10.000000Z",
-    "role": "admin"
-}
+{"foobar":"gaybar"}
